@@ -1,7 +1,7 @@
 # RugbyMind-quiz-app🏉
- // Rugby Quiz App 
+     Rugby Quiz App 
 
-// Un'applicazione mobile interattiva per imparare e divertirsi con il rugby durante il terzo tempo.
+ Un'applicazione mobile interattiva per imparare e divertirsi con il rugby durante il terzo tempo.
 
 ## 📱 Caratteristiche
 
